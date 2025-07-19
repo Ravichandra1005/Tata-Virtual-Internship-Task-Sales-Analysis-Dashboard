@@ -6,7 +6,7 @@ Analysis: Built pivot tables to summarize and explore key metrics.
 Visualization: Designed clear, interactive charts and dashboards to present insights effectively.
 
 
- Questions and what I did:
+   Questions and what I did:
 1️⃣ Monthly Revenue Trend for 2011
 Created a pivot table and line chart to show monthly revenue trends across 2011, highlighting seasonality and peak months.
 
